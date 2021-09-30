@@ -4,6 +4,8 @@ I'll try to post some info here and the idea is to have the cheatsheets [here](h
 
 ### Meetings 
 
+Currently we have hybrid sessions so NTNU people from Oslo can join 👍.
+
 #### Høst 2021
 
 - E1 Wednesday 06.10.21
