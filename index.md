@@ -2,7 +2,7 @@
 
 If you want to know about the objective and dynamics of the group you can read it [here](https://github.com/anyosa/coding-group/blob/gh-pages/about.md). A list of possible topics is also provided there.
 
-You can find the cheatseets of the group [here](https://github.com/anyosa/coding-group/tree/gh-pages/cs).
+You can find the cheatseets of the group [here](https://github.com/anyosa/coding-group/tree/gh-pages/contributions).
 
 ### Meetings 
 
