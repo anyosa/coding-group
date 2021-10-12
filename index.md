@@ -13,8 +13,8 @@ Currently we have hybrid sessions so NTNU people from Oslo can join 👍.
 - E1 Wednesday 06.10.21
   - Organizing the collaborative development of scientific code bases by Florian Beiser.
   - Moving beyond theme_gray: exploring advanced ggplot2 for customized plot layouts by Emma Skarstein.
-- E2 date to be informed
-	- A talk about Julia language.
+- E2 Friday 12.11.21
+	- A discussion about Julia language with Ronny Bergmann.
 
 ### Contact
 
