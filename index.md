@@ -6,7 +6,8 @@ You can find the cheatsheets / slides from the contributions to the group [here]
 
 ### Meetings 
 
-We currently have physical sessions at NTNU. Now that the restrictions have been lifted, the seminars are open to all the interested people. The seminars will be announced in the list for all employees of the statistics group.
+We currently have physical sessions at NTNU. Now that the restrictions have been lifted, the seminars are open to all the interested people. 
+The seminars will be announced in the list for all employees of the statistics group.
 
 #### Vår 2022 🌺
 
