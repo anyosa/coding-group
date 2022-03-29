@@ -25,4 +25,4 @@ The presenter can share about:
 
 ### Acknowledgments 
 
-- We thank the speakers and the collaboration of E.S. 🐈 and S.V. ⚡️ to help to set this up.
+- We thank the speakers and the collaboration of E.S. 🐈 and S.V. ⚡️ who helped to set this up.
