@@ -23,6 +23,6 @@ The presenter can share about:
 - Workflows that help with productivity in coding.
 - Applications or miscellaneous coding topics like code and data organization or debugging.
 
-### Acknowledgements
+### Acknowledgments 
 
 - We thank the speakers and the collaboration of E.S. 🐈 and S.V. ⚡️ to help to set this up.
