@@ -12,7 +12,6 @@ We currently have physical sessions at NTNU. Now that the restrictions have been
 
 - E1 May
   -  Pytorch session.
-
 - E2 June
   - Debugging session.
 
