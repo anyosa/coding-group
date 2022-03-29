@@ -25,4 +25,4 @@ We currently have physical sessions at NTNU. Now that the restrictions have been
 
 ### Contact
 
-Send me an [email](https://www.ntnu.edu/employees/susan.anyosa).
+Send us an [email](https://www.ntnu.edu/employees/susan.anyosa).
