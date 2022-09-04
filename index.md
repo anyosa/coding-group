@@ -12,9 +12,9 @@ The seminars will be announced in the list for all employees of the statistics g
 #### Vår 2022 🌺
 
 - E1 Wednesday 04.05.22
-  -  Pytorch session.
-- E2 June
-  - Debugging session.
+  -  Overview: Common use of PyTorch from the basics to the advanced by Daesoo Lee.
+- E2 Wednesday 15.06.22
+  - Tools for Debugging (and Organizing Code) in R and Rstudio by John Paige.
 
 #### Høst 2021 ☃️
 
