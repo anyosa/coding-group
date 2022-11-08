@@ -9,6 +9,11 @@ You can find the cheatsheets / slides from the contributions to the group [here]
 We currently have physical sessions at NTNU. Now that the restrictions have been lifted, the seminars are open to all the interested people. 
 The seminars will be announced in the list for all employees of the statistics group.
 
+#### Høst 2022 🌧
+
+- E1 Friday 09.12.22
+  - Philip Mostert
+
 #### Vår 2022 🌺
 
 - E1 Wednesday 04.05.22
